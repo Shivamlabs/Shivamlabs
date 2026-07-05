@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!<h1 align="center">shivamlabs</h1>
+
+
+<h1 align="center">shivamlabs</h1>
 
 <p align="center">
 Hey there! 👋
@@ -45,8 +47,8 @@ If an idea pops into my head, I try to build it and break it (and then fix it ag
 <h3>📊 GitHub Stats</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamlabs&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamlabs&theme=radical" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=shivamlabs&show_icons=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=shivamlabs&theme=radical" height="150" />
 </p>
 
 <h3>🌐 Connect with me</h3>
@@ -61,17 +63,4 @@ If an idea pops into my head, I try to build it and break it (and then fix it ag
   <a href="https://github.com/shivamlabs" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>--
-**Shivamlabs/Shivamlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
