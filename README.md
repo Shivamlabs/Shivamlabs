@@ -1,4 +1,4 @@
-# Hello Traveler, I'm Shivam 👋
+# Hello There , I'm Shivam 👋
 
 I'm a BCA (AI/DL) student based in Jharkhand, India, currently in my first year — learning the fundamentals of programming and slowly stepping into the world of Artificial Intelligence & Deep Learning.
 
